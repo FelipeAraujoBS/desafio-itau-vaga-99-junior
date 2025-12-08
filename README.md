@@ -4,7 +4,7 @@ Este é um desafio bacana tanto de desenvolvimento de software quanto de engenha
 
 ## 1. Introdução
 
-Sua missão, caso você aceite, é criar uma API REST que recebe Transações e retorna Estatísticas sob essas transações. Para este desafio, a API deve ser criada utilizando-se de Java ou [Kotlin](https://kotlinlang.org/) e Spring Boot.
+Sua missão, caso você aceite, é criar uma API REST que recebe Transações e retorna Estatísticas sob essas transações. Para este desafio, a API deve ser criada utilizando-se de Java ou [Kotlin](https://kotlinlang.org/) e Spring Boot. (Usarei Typescript e NestJS, que são minhas stacks principais) 
 
 Um bom lugar para se começar é o [Spring Starter](https://start.spring.io/).
 
